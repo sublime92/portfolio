@@ -148,6 +148,9 @@ footer {
 .work {
     background: #EDF2F4;
 }
+.work .workHeading{
+  text-align: center;
+}
 
 
 /* Education
